@@ -1,0 +1,27 @@
+{
+  "name": "episode1",
+  "version": "1.0.0",
+  "description": "This is how we build an application from the scratch",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarveshbs87/namasteReact.git"
+  },
+  "keywords": [
+    "starting",
+    "from",
+    "scratch"
+  ],
+  "author": "Sarvesh with the help of Akshay Saini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarveshbs87/namasteReact/issues"
+  },
+  "homepage": "https://github.com/sarveshbs87/namasteReact#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
